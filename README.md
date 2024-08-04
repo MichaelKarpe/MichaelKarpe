@@ -7,7 +7,6 @@ I'm bringing **high added value** to the world leveraging the latest **machine l
 * 🌍 Before settling in Luxembourg 🇱🇺, I lived and studied in Lyon 🇫🇷, Paris 🇫🇷 and Berkeley, California 🇺🇸
 * 🖥️ You can see my portfolio at [michaelkarpe.github.io](http://michaelkarpe.github.io)
 * ✉️ You can contact me on [LinkedIn](https://www.linkedin.com/in/michaelkarpe)
-* 🚀 I'm currently working at [Next Gate Tech](https://nextgatetech.com), a FinTech SaaS scaleup disrupting the financial data management industry
 * 🧠 I'm continuously learning more about machine learning techniques, challenges, and social impact
 * 🤝 I'm open to collaborating on building an efficient and open-source machine learning operations framework
 * ⚡ I'm always looking for bright new ideas to change the world with machine learning
