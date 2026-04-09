@@ -1,7 +1,7 @@
 Hey! What are you doing here? 🧐
 ===============================================================================================================================
 
-I'm Michael, **Machine Learning Scientist** from Nîmes 🇫🇷, currently living in **Luxembourg** 🇱🇺. \
+I'm Michael, **Senior Data Scientist** from Nîmes 🇫🇷, currently living in **Luxembourg** 🇱🇺. \
 I'm bringing **high added value** to the world leveraging the latest **machine learning** techniques.
 
 * 🌍 Before settling in Luxembourg 🇱🇺, I lived and studied in Lyon 🇫🇷, Paris 🇫🇷 and Berkeley, California 🇺🇸
